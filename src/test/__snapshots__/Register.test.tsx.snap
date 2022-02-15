@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`register register page renders correctly 1`] = `
+<div>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      name="email"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="email"
+    />
+    <button
+      type="submit"
+    >
+      Register User
+    </button>
+  </form>
+</div>
+`;
